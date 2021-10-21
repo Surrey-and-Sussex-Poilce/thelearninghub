@@ -38,7 +38,7 @@
         {
           "Id": "ea15aa58-4bfc-46bd-af7e-d6b02653e805",
           "Name": "SharePoint Online readiness",
-          "Image": "images/categories/sharepoint_readiness_280x200.png",
+          "Image": "images/categories/sharepoint-readiness.png",
           "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -47,7 +47,7 @@
         {
           "Id": "e75240c6-bfaf-4693-8091-ac3116f7cca0",
           "Name": "OneDrive readiness",
-          "Image": "images/categories/onedrive_readiness_280x200.png",
+          "Image": "images/categories/onedrive-readiness.png",
           "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -66,7 +66,7 @@
         {
           "Id": "ae14c406-edf8-4ec1-8996-d78d5a17c661",
           "Name": "Training (How To?)",
-          "Image": "images/categories/training_280x200.png",
+          "Image": "images/categories/training.png",
           "TechnologyId": "ba92701f-678a-4223-93a5-6998f18acf72",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -75,7 +75,7 @@
         {
           "Id": "c5beb7de-325c-41d1-9ec4-49724003ebc4",
           "Name": "Best practices",
-          "Image": "images/categories/best_practice_280x200.png",
+          "Image": "images/categories/best-practice.png",
           "TechnologyId": "ba92701f-678a-4223-93a5-6998f18acf72",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -94,7 +94,7 @@
         {
           "Id": "dba87897-379a-4868-847b-92c89713f9ed",
           "Name": "Data retention",
-          "Image": "images/categories/data_retention_280x200.png",
+          "Image": "images/categories/data-retention.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -103,7 +103,7 @@
         {
           "Id": "d0242f82-454e-4b5e-a450-4ef591729c4e",
           "Name": "Sensitivity Labels",
-          "Image": "images/categories/sensitivity_labels_280x200.png",
+          "Image": "images/categories/sensitivity-labels.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -122,7 +122,7 @@
         {
           "Id": "606b94f1-952a-46cb-8ef2-76bf7765271a",
           "Name": "Sharing policies",
-          "Image": "images/categories/sharing_policies_280x200.png",
+          "Image": "images/categories/sharing-policies.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
           "SubjectId": "",
           "Source": "Learning Hub Team",
@@ -131,7 +131,7 @@
         {
           "Id": "0c91a488-fb73-471f-bba2-fe6c3c26cb96",
           "Name": "Managing your permissions as a Site Owner",
-          "Image": "images/categories/managing_permissions_280x200.png",
+          "Image": "images/categories/managing-permissions.png",
           "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
           "SubjectId": "",
           "Source": "Learning Hub Team",
