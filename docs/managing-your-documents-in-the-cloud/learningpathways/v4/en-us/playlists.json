@@ -299,7 +299,7 @@
   {
     "Id": "b33438eb-b03e-4dd6-8c9a-baa6fc7c51f9",
     "Title": "Sharing from OneDrive",
-    "Image": "images/playlists/sharing-with-onedrive.png",
+    "Image": "images/playlists/sharing-from-onedrive.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "28b91d7c-f797-44d2-a9ea-b823b3ea26a3",
@@ -316,7 +316,7 @@
   {
     "Id": "36876c83-5173-49a4-a5c9-b5bc4bb01600",
     "Title": "Sharing a document with a Sensitivity Label",
-    "Image": "images/playlists/sharing-a-doc-with-sensitivity-label.png",
+    "Image": "images/playlists/sharing-doc-with-sensitivity-label.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
