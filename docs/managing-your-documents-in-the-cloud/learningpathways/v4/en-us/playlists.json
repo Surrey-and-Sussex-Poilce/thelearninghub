@@ -465,7 +465,7 @@
   },
   {
     "Id": "6d8333db-8ffc-426d-a2a1-42911cdc5967",
-    "Title": "Adding default Labels to a libaray",
+    "Title": "Adding default Labels to a library",
     "Image": "images/playlists/adding-default-labels-to-a-library.png",
     "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
     "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
@@ -477,8 +477,10 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      ""
-
+      "db841e80-86ad-416e-8c3d-97a6c2efa40c",
+      "c384fb44-fbbc-4067-9bfb-f5832bb73cbc",
+      "b12ce504-22c3-4ba0-817e-f4cf1f318a65",
+      "12ba79ee-7e4b-4ca2-a061-38d3f285708c"
     ]
   },
 
