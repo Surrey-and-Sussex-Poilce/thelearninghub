@@ -164,6 +164,50 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+    {
+    "Id": "db841e80-86ad-416e-8c3d-97a6c2efa40c",
+    "Title": "Apply retention labels to files in SharePoint or OneDrive Overview",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Apply-retention-labels-to-files-in-SharePoint-or-OneDrive-Overview.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "c384fb44-fbbc-4067-9bfb-f5832bb73cbc",
+    "Title": "Apply a retention label to an item",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Apply-a-retention-label-to-an-item.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "b12ce504-22c3-4ba0-817e-f4cf1f318a65",
+    "Title": "Set a default retention label for a SharePoint document library",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Set-a-default-retention-label-for-a-SharePoint-document-library.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },  
+  {
+    "Id": "12ba79ee-7e4b-4ca2-a061-38d3f285708c",
+    "Title": "Create a view that contains retention labels",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Create-a-view-that-contains-retention-labels.aspx?embed=true",
+    "TechnologyId": "907c824c-9ef9-45a2-a0a0-72b7a7676646",
+    "SubjectId": "",
+    "Source": "Learning Hub Team",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }, 
   {
     "Id": "a8bc6372-a7c8-48eb-a7f4-a392381ca2e2",
     "Title": "Sharing Police information from OneDrive",
