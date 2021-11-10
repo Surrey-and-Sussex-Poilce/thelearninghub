@@ -1,0 +1,179 @@
+{
+  "Technologies": [
+    {
+      "Id": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+      "Name": "Microsoft 365",
+      "Subjects": []
+    },
+    {
+      "Id": "d85d8c5f-1496-49ad-a0a8-199dc7f7a2a8",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+    {
+      "Id": "810a5566-a2f3-4117-8f86-402f5bc3aaff",
+      "Name": "SharePoint Online",
+      "Subjects": []
+    },
+    {
+      "Id": "2dc89061-338b-4942-a24a-600175caf5c3",
+      "Name": "OneDrive",
+      "Subjects": []
+    },
+    {
+      "Id": "6f2a4212-bbf7-474d-8d93-48e463d60c50",
+      "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "ab03e34e-5703-4956-9f7a-4f15216d15bc",
+      "Name": "Task by Planner and To Do",
+      "Subjects": []
+    },
+    {
+      "Id": "4b472d56-0e26-4e9a-9808-501acb3a38e8",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+    {
+      "Id": "3a90104f-82b6-4bee-889a-6e3508ea0d84",
+      "Name": "OneNote Class Notebook",
+      "Subjects": []
+    },
+    {
+      "Id": "a775a207-f076-4cd0-a4c4-1f7ff4b0200d",
+      "Name": "Stream",
+      "Subjects": []
+    },
+    {
+      "Id": "4fcd592a-4dfe-40a9-a9fa-62506405ceaf",
+      "Name": "Sway",
+      "Subjects": []
+    },
+    {
+      "Id": "ef462ba0-d356-4a86-9f4d-fbe8214a8232",
+      "Name": "Whiteboard",
+      "Subjects": []
+    },
+    {
+      "Id": "87868376-aedc-4590-806b-f0a7873f1a49",
+      "Name": "Microsoft Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "3472cf50-17fe-4b25-a98c-f7c44002da8b",
+      "Name": "Learning Hub",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "357c3028-a097-40f3-ae82-0ea1414082ec",
+      "Name": "Getting started with Policing 365",
+      "Image": "",
+      "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+      "SubjectId": "",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "5c2da2ee-0f22-4797-aba3-ce50c6853b3f",
+          "Name": "Welcome Pack",
+          "Image": "images/categories/welcome-pack.png",
+          "TechnologyId": "0103e4ea-f6fb-4ec9-acb1-b6d72f4cdad9",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories": []
+        },
+        {
+          "Id": "2c4d6282-1ed4-40c9-a3c0-79aea6852e8b",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/microsoft-teams.png",
+          "TechnologyId": "87868376-aedc-4590-806b-f0a7873f1a49",
+          "SubjectId": "",
+          "Source":"Learning Hub Team",
+          "SubCategories":[]
+        },
+        {
+          "Id": "b14a7694-ffaa-44a4-9c1e-4a12dcd47b60",
+          "Name": "SharePoint Online",
+          "Image": "images/categories/sharepoint-online.png",
+          "TechnologyId": "810a5566-a2f3-4117-8f86-402f5bc3aaff",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories":[]
+        },
+        {
+          "Id": "fabd142c-64fc-478f-a049-0588e79ebaba",
+          "Name": "Benefits",
+          "Image": "images/categories/benefits.png",
+          "TechnologyId": "72887105-5917-443e-9c85-a4ba0dbecd76",
+          "SubjectId": "",
+          "Source": "Learning Hub Team",
+          "SubCategories":[]
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "End User"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "Owner"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champion"
+    },
+    {
+      "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
+      "Name": "Trainer"
+    },
+    {
+      "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+      "Name": "Admin"
+    }
+  ],
+  "Sources": [
+    "Learning Hub Team",
+    "Microsoft"
+  ],
+  "Levels": [
+    {
+      "Id": "5a958086-473d-46b3-92eb-c1e09c34263c",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "7e98bcb4-85bd-4b78-9823-3283dab21064",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "27f4c920-bcab-46b9-8e13-9de63e219c84",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "164d99ed-c638-4dbb-8295-781312dee721",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ]
+}
