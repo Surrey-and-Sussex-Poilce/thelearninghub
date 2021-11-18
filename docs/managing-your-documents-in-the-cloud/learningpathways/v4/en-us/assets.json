@@ -914,20 +914,9 @@
   },
   {
     "Id": "2b262f05-44ba-49d5-88b5-11848ac3a396",
-    "Title": "What are the types of restrictions/permissions I can allocate to a document with a sensitivity label?",
+    "Title": "Restricting Sensitivity Labels and Deleting Restricted Documents",
     "Description": "",
-    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/What-are-the-types-of-restrictions-permissions-I-can-allocate-to-a-document-with-a-sensitivity-label.aspx?embed=true",
-    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
-    "SubjectId": "",
-    "Source": "Learning Hub Team",
-    "StatusTagId": "",
-    "StatusNote": ""
-  },
-  {
-    "Id": "31da5f81-3dc8-4b27-b2fa-6848dffa58a1",
-    "Title": "Can I delete a restricted document, if so, what happens?",
-    "Description": "",
-    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Can-I-delete-a-restricted-document-if-so-what-happens.aspx?embed=true",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/restricting-sensitivity-labels-and-deleting-restricted-documents.aspx?embed=true",
     "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
     "SubjectId": "",
     "Source": "Learning Hub Team",
