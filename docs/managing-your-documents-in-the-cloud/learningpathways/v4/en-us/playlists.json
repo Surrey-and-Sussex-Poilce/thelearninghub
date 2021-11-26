@@ -810,6 +810,25 @@
       "8a98e9fd-a7f2-46b5-a3be-8c76744e74d7"
     ]
   },
+    {
+    "Id": "26a4818c-6480-4d98-b3b0-cf86ee1a419e",
+    "Title": "Sensitivity levels and Labels",
+    "Image": "images/playlists/sensitivity-levels-and-labels.png",
+    "LevelId": "5a958086-473d-46b3-92eb-c1e09c34263c",
+    "AudienceId": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+    "TechnologyId": "bebe67b2-87ba-4d8b-aa2b-9d6011c27357",
+    "SubjectId": "",
+    "Source": "The Learning Hub Team",
+    "CatId": "d0242f82-454e-4b5e-a450-4ef591729c4e",
+    "Description": "A sensitivity classification is a security level which is applied to protect all of the Forces’ information. It is guided by the three levels of ‘Government Security Classifications’ (GSC).",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "68af81a1-06e5-45dc-9e5e-87c451f70d0b",
+      "bd035bb4-a9ac-4641-9d94-7eb311fc8425",
+      "8045d3d8-e23f-408b-9aae-59eb7c3382b2"
+    ]
+  },
   {
     "Id": "c097f695-fcdf-4650-9d64-b08bde9f14f4",
     "Title": "Sharing a document with a Sensitivity Label",
