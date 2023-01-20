@@ -3916,6 +3916,17 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+    {
+    "Id": "c0f77b17-d1dd-4cef-8610-5cdb4f449b13",
+    "Title": "Create a Standard Channel",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Create-a-Standard-Channel.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  }, 
   {
     "Id": "0401439d-daec-49a6-bedf-c7842ebd77b5",
     "Title": "Create a Shared Channel",
