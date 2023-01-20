@@ -1,0 +1,421 @@
+{
+  "Technologies": [
+    {
+      "Id": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "Name": "Training Packages",
+      "Subjects": [
+        {
+          "Id": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Name": "Basic functionality training"
+        },
+        {
+          "Id": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Name": "Advance functioanlity training"
+        },
+        {
+          "Id": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Name": "Site Owner training"
+        }
+      ]
+    },
+    {
+      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "Name": "Accessibility",
+      "Subjects": []
+    },
+    {
+      "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+      "Name": "Excel",
+      "Subjects": []
+    },
+    {
+      "Id": "33059862-a87d-4b40-9984-be7c6083cf95",
+      "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+      "Name": "Microsoft 365 (M365) Basics",
+      "Subjects": []
+    },
+    {
+      "Id": "c209f64e-0291-437a-9615-17747eab50d0",
+      "Name": "Microsoft Teams",
+      "Subjects": []
+    },
+    {
+      "Id": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
+      "Name": "Office for the web",
+      "Subjects": []
+    },
+    {
+      "Id": "452e503b-bafb-4023-b00d-b6d9b1701596",
+      "Name": "OneDrive",
+      "Subjects": []
+    },
+    {
+      "Id": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+      "Name": "OneNote",
+      "Subjects": []
+    },
+    {
+      "Id": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+      "Name": "Outlook",
+      "Subjects": []
+    },
+    {
+      "Id": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+      "Name": "Planner",
+      "Subjects": []
+    },
+    {
+      "Id": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+      "Name": "PowerPoint",
+      "Subjects": []
+    },
+    {
+      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+      "Name": "SharePoint",
+      "Subjects": []
+    },
+    {
+      "Id": "0eb89b8a-87cf-4388-b146-1e073588b029",
+      "Name": "Word",
+      "Subjects": []
+    },
+    {
+      "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+      "Name": "Quick start guides",
+      "Subjects": []
+    },
+    {
+      "Id": "",
+      "Name": "",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "99d0e1ec-9abf-4b11-b6d7-cd9c69cbe4bd",
+      "Name": "Quick Starts and basic information",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "Name": "Quick Start Guides",
+          "Image": "images/categories/quick_start_guides.png",
+          "TechnologyId": "2f68a15c-554b-4355-b65c-ac714b0e3a81",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "c86043b9-d419-4829-be46-4592b976910c",
+          "Name": "Microsoft 365 (M365) Basics",
+          "Image": "images/categories/office_basics_playlist.png",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "365fc5e8-1965-4cc1-affe-033e4b5d99ab",
+      "Name": "Basic functionality",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
+          "Name": "Excel",
+          "Image": "images/categories/excel.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "565034d2-44ec-4168-8c1e-a1f615bbf8a1",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/teams.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "622c3ab9-fe33-43d3-8ef5-f57b78753f54",
+          "Name": "OneDrive",
+          "Image": "images/categories/onedrive.png",
+          "TechnologyId": "452e503b-bafb-4023-b00d-b6d9b1701596",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "857a0180-bb1b-4f7f-afd1-7b6f26e94ec7",
+          "Name": "OneNote",
+          "Image": "images/categories/onenote.png",
+          "TechnologyId": "4ba51921-475f-481d-8bc3-c9b0f658342c",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "b7351080-db3c-49f6-b406-b6759f3e0a7f",
+          "Name": "Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "4cd19581-6909-49fa-8000-ed260a9368c4",
+          "Name": "Planner",
+          "Image": "images/categories/planner.png",
+          "TechnologyId": "2f571b54-44fa-4778-9277-c7935e36ffb3",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "83cc2cce-4234-4c28-8cc1-3493fcb7d53e",
+          "Name": "PowerPoint",
+          "Image": "images/categories/powerpoint.png",
+          "TechnologyId": "8770a224-6b62-406f-9fd2-a51d4a8131a8",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "783ee818-e667-4b06-b478-531f04998919",
+          "Name": "SharePoint",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e30eb2c1-8773-451c-93ff-0024f82b75ad",
+          "Name": "Word",
+          "Image": "images/categories/word.png",
+          "TechnologyId": "0eb89b8a-87cf-4388-b146-1e073588b029",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "e9b1e6fd-4b21-4fae-bd8d-bb28e10b37a2",
+          "Name": "Office for the web",
+          "Image": "images/categories/office_for_web.png",
+          "TechnologyId": "944d9b59-7c3c-49cf-8ca5-a029ae3bd9c2",
+          "SubjectId": "8f099218-a91c-47e9-a792-37ef0d02a036",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "5c73b5c4-0ffb-4d8d-92e2-48f1a7c20cfa",
+      "Name": "Advance functionality",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "d32992c6-a3d5-4c9d-b527-8c7cd79229d7",
+          "Name": "Excel",
+          "Image": "images/categories/excel.png",
+          "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "c508cee7-471b-48eb-a81b-a524dd4583a3",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/teams.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "2c7845a8-6118-40f6-b082-962408d58381",
+          "Name": "Forms",
+          "Image": "images/categories/forms_training.png",
+          "TechnologyId": "33059862-a87d-4b40-9984-be7c6083cf95",
+          "SubjectId": "12dbb6ea-5043-4ea7-af2a-6036cc1b9e74",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "010c8d62-ae2d-45ff-8d81-b41cfef76fad",
+      "Name": "Site Owner training",
+      "Image": "images/categories/category-placeholder-wip.png",
+      "TechnologyId": "68c124be-00d8-4177-aae5-4ad3381fc838",
+      "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+      "Source": "Learning Hub Team",
+      "SubCategories": [
+        {
+          "Id": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
+          "Name": "Overview of Teams and SharePoint for a Site Owner",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "ea7a2c0b-2f49-4683-89d7-d01753c123a8",
+          "Name": "Microsoft 365 Groups",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "37a12e26-aba6-4f98-b2b2-7bcea8d502b3",
+          "Name": "Microsoft Teams",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "bd5f092b-6f7b-4adb-91e0-da681715739d",
+          "Name": "SharePoint Online",
+          "Image": "images/categories/category-placeholder.png",
+          "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+          "SubjectId": "21d4d9e2-2b3c-495f-9998-6440d67f0918",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "3c14d03f-07c6-46fd-bcda-34c6fef80606",
+      "Name": "Accessibility options in M365",
+      "Image": "images/categories/category-placeholder.png",
+      "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "3fcdb3a8-ca79-4e7e-b2a5-42feaf286f22",
+          "Name": "Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "55411d20-3d34-4fbc-bff9-431b57974701",
+          "Name": "Word",
+          "Image": "images/categories/word.png",
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "3d7eb08a-c027-4396-bf84-1aeaedc5bed5",
+          "Name": "Excel",
+          "Image": "images/categories/excel.png",
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "09088bde-1e85-4714-8154-d5629f0d4007",
+          "Name": "Powerpoint",
+          "Image": "images/categories/powerpoint.png",
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+      "Name": "End User"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "Owners"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champions"
+    },
+    {
+      "Id": "0000d91a-143e-41f3-b0db-880a5e1bf80b",
+      "Name": "Trainers"
+    },
+    {
+      "Id": "4d0089b2-83fc-4049-b4c2-5d1e34727d6b",
+      "Name": "Admin"
+    },
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    ""
+  ],
+  "Levels": [
+    {
+      "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "c11c485b-496d-479b-88a3-1744a7a028d7",
+      "Name": "New"
+    },
+    {
+      "Id": "88c75433-02c4-4aab-9606-900fe099ea16",
+      "Name": "Updated"
+    },
+    {
+      "Id": "83289991-44b8-4274-943a-9b8dcfcb94f9",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "45d78306-16fb-4ad4-affd-5314715a0323",
+      "Name": "Retired"
+    },
+    {
+      "Id": "78d72d69-8c00-4abd-a089-806d7822b250",
+      "Name": "Beta"
+    }
+  ]
+}
