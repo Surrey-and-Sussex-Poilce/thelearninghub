@@ -3861,6 +3861,138 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+    {
+    "Id": "79ba8e9b-f0c8-4fed-9c07-4ed88d0d50f3",
+    "Title": "What is an Owner?",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/What-is-an-Owner-.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5310fb02-3e12-4aee-89d5-8028efc6bfb1",
+    "Title": "Roles and Responsibilities",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Roles-and-Responsibilities.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ea913b6c-95d0-4a97-b0b9-0363686e08c0",
+    "Title": "Permission Levels in Teams",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Permission-Levels-in-Teams.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "6a084496-107f-49de-939c-b5217011cb47",
+    "Title": "Channels",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Creating-and-managing-channels.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "127d45ef-d39e-43c1-8fd6-e149bc6df056",
+    "Title": "Types of Channel",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Types-of-Channel.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "0401439d-daec-49a6-bedf-c7842ebd77b5",
+    "Title": "Create a Shared Channel",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Create-a-Shared-Channel.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a254ce60-486a-46f1-8c2c-2ed79ec6b269",
+    "Title": "Edit, delete, hide or leave a channel",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Edit,-delete,-hide-or-leave-a-channel.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "e375314f-d156-4b4e-89d4-d105c655dda8",
+    "Title": "Channel Tabs",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Channel-Tabs.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "7de0e393-fcd1-49c5-a5db-07e4f914875d",
+    "Title": "Sharing Files",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Sharing-Files.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "526cb990-4d86-43eb-96a8-177039941787",
+    "Title": "Managing permissions with Teams",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Managing-permissions-with-Teams.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "bd5efea9-100e-4d26-a6b5-6b3cb97d0cc6",
+    "Title": "Change Team settings",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Change-Team-settings.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "cd64d09c-62ad-49eb-ac03-76a17d8730f4",
+    "Title": "Team Renewal",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Team-Renewal.aspx?embed=true",
+    "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
   {
     "Id": "f86faf8f-fa5c-48be-9a21-2c4f84913630",
     "Title": "Collaboration in M365 using SharePoint and Teams",
