@@ -1490,8 +1490,8 @@
 
 
   {
-    "Id": "a9f15a2c-d815-40ea-b288-cc3b303e7bb9",
-    "Title": "Collaboration in M365 using SharePoint and Teams as an Owner",
+    "Id": "632b8bf8-c6c8-41fd-85e8-23675994adb6",
+    "Title": "SharePoint Owner",
     "Image": "images/playlists/forms-share-collaborate.png",
     "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
     "AudienceId": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
@@ -1503,8 +1503,36 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f86faf8f-fa5c-48be-9a21-2c4f84913630",
-      "9cad716b-f1b5-452b-a167-963545f9f713"
+      "8ecbdb16-73aa-4a99-b6d7-2e542bd73858",
+      "bb0183d1-3267-4510-8295-5c40a7332283",
+      "1335bb4a-9245-4a00-b068-6d12f7005269",
+      "dcfc5515-487b-43d8-b298-63f4e74faadf",
+      "16c0871b-5373-4928-b4b8-0629cceafe67",
+      "13bc0b47-c7f4-4b43-9f7c-e84b44cb9daa",
+      "ddddf80f-5448-458f-8f51-1c074a4432ad",
+      "490bb20e-b63d-4378-b46a-8935476a0e73",
+      "59945c6a-d3f2-4e70-adf7-74ccd8dff250",
+      "f72d4c67-2259-43a6-9100-20a903ba270e"
+    ]
+  },
+
+
+  {
+    "Id": "67a526a2-660d-4399-a902-ab2fa025dd66",
+    "Title": "Microsoft Teams Owner",
+    "Image": "images/playlists/forms-share-collaborate.png",
+    "LevelId": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+    "AudienceId": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+    "TechnologyId": "0b09984a-ce63-4ffa-ad3e-30b2de4da3fe",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "c31321f2-c120-4f1a-bf8a-edaa9a8bd097",
+    "Description": "Just a quick look at Teams and SharePoint along with what this means for you as a site owner",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "",
+      ""
     ]
   },
 
