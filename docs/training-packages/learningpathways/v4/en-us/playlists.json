@@ -1527,12 +1527,22 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "bd5f092b-6f7b-4adb-91e0-da681715739d",
-    "Description": "Just a quick look at Teams and SharePoint along with what this means for you as a site owner",
+    "Description": "Learn more about common tasks you will undertake as a Team Owner. As a Team owner you are the point of contact for queries relating to your Team.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "",
-      ""
+      "79ba8e9b-f0c8-4fed-9c07-4ed88d0d50f3",
+      "5310fb02-3e12-4aee-89d5-8028efc6bfb1",
+      "ea913b6c-95d0-4a97-b0b9-0363686e08c0",
+      "6a084496-107f-49de-939c-b5217011cb47",
+      "127d45ef-d39e-43c1-8fd6-e149bc6df056",
+      "0401439d-daec-49a6-bedf-c7842ebd77b5",
+      "a254ce60-486a-46f1-8c2c-2ed79ec6b269",
+      "e375314f-d156-4b4e-89d4-d105c655dda8",
+      "7de0e393-fcd1-49c5-a5db-07e4f914875d",
+      "526cb990-4d86-43eb-96a8-177039941787",
+      "bd5efea9-100e-4d26-a6b5-6b3cb97d0cc6",
+      "cd64d09c-62ad-49eb-ac03-76a17d8730f4"
     ]
   },
 
