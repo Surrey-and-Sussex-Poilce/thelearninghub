@@ -3751,6 +3751,116 @@
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": ""
   },
+   {
+    "Id": "8ecbdb16-73aa-4a99-b6d7-2e542bd73858",
+    "Title": "SharePoint Online Site Owner",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/What-is-an-Owner.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "bb0183d1-3267-4510-8295-5c40a7332283",
+    "Title": "Accessing SharePoint via Teams",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Accessing-Sharepoint-via-teams.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1335bb4a-9245-4a00-b068-6d12f7005269",
+    "Title": "Creating And Managing Libraries",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Creating-and-Managing-Libraries.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "dcfc5515-487b-43d8-b298-63f4e74faadf",
+    "Title": "Adding functionality to SharePoint",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Adding-functionality-to-Sharepoint.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "16c0871b-5373-4928-b4b8-0629cceafe67",
+    "Title": "Adding And Editing Columns",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Adding-and-editing-columns.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "13bc0b47-c7f4-4b43-9f7c-e84b44cb9daa",
+    "Title": "Document Versioning",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "Description":"",
+    "Url":"https://saspact.sharepoint.com/sites/learninghub/SitePages/Creating-and-editing-views.aspx?embed=true",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "ddddf80f-5448-458f-8f51-1c074a4432ad",
+    "Title": "Retention",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Document-versioning.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "490bb20e-b63d-4378-b46a-8935476a0e73",
+    "Title": "Managing Permissions",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Managing-Permissions.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "59945c6a-d3f2-4e70-adf7-74ccd8dff250",
+    "Title": "How to Recover Files From The Recycle Bin",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/How-to-recover-files-from-the-Recycle-Bin.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f72d4c67-2259-43a6-9100-20a903ba270e",
+    "Title": "Navigation in SharePoint",
+    "Description": "",
+    "Url": "https://saspact.sharepoint.com/sites/learninghub/SitePages/Navigation-in-SharePoint.aspx?embed=true",
+    "TechnologyId": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+    "SubjectId": "",
+    "Source": "DDaT",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": ""
+  },
   {
     "Id": "f86faf8f-fa5c-48be-9a21-2c4f84913630",
     "Title": "Collaboration in M365 using SharePoint and Teams",
